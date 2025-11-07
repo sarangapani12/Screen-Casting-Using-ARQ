@@ -2,7 +2,7 @@
 This project implements ARQ protocols (Selective Repeat) to achieve reliable screen casting over unstable networks. It simulates packet loss and delay, analyzing retransmissions, throughput, and latency to ensure smooth and efficient real-time video streaming.
 # 🎥 Reliable Screen Casting using ARQ Protocols
 
-This project demonstrates **reliable video/screen streaming** using **Automatic Repeat reQuest (ARQ)** techniques — Stop-and-Wait, Go-Back-N, and Selective Repeat.  
+This project demonstrates **reliable video/screen streaming** using **Automatic Repeat reQuest (ARQ)** technique Selective Repeat.  
 It simulates data delivery over an **unreliable network channel** with configurable packet loss and delay, showcasing how ARQ mechanisms improve streaming performance and user experience.
 
 ---
